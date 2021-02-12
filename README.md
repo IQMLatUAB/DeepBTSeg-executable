@@ -6,6 +6,7 @@ This repository is the client end executable version of DeepBTSeg. We also provi
 DeepBTSeg is developed under Matlab 2020b and is executable under Matlab 2019b and Matlab 2020a.
 
 # Installation
+* Window Installation
 
 Dowload DeepBTSeg repository and unzip it.
 Double click DeepBTSeg.exe
@@ -30,11 +31,16 @@ Select "Yes" and "Next"
 Click "install"
 
 ![](images/6.PNG)
+![](images/7.PNG)
+
+Installation completed
 
 
 
 # User instructions
-1.make sure the current folder of Matlab is under DeepBTSeg.
+1.Right click and choose "run as administrator" all the time(even you log in as administrator in your computer)
+
+![](images/8.png)
 
 2.Run DeepBT_GUI.m under the DeepBT folder in matlab.
 
