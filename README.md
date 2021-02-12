@@ -9,6 +9,27 @@ DeepBTSeg is developed under Matlab 2020b and is executable under Matlab 2019b a
 
 Dowload DeepBTSeg repository and unzip it.
 Double click DeepBTSeg.exe
+![](images/1.PNG)
+
+Click "Next"
+
+![](images/2.PNG)
+
+Click "Next"
+
+![](images/3.PNG)
+
+Click "Next"
+
+![](images/4.PNG)
+
+Select "Yes" and "Next"
+
+![](images/5.PNG)
+
+Click "install"
+
+![](images/6.PNG)
 
 
 
