@@ -4,6 +4,9 @@ DeepBTSeg provides the user-friendly graphical user interface (GUI) of remote de
 
 This repository is the client end executable version of DeepBTSeg. We also provide Matlab code of DeepBTSeg [here](https://github.com/IQMLatUAB/DeepBTSeg).
 DeepBTSeg is developed under Matlab 2020b and is executable under Matlab 2019b and Matlab 2020a.
+# DeeoBTSeg GUI
+
+![](images/DeepBTGUI_whole_window.PNG)
 
 # Installation
 * Window version (developed under Matlab 2020b)
