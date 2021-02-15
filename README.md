@@ -1,6 +1,6 @@
 # DeepBTSeg-executable
 
-DeepBTSeg provides the user-friendly graphical user interface (GUI) of remote deep learning models of brain tumors, which allow users to conduct deep learning image brain tumor segmentation without the cumbersome of both software and hardware requirements on their local computers. 
+DeepBTSeg provides the user-friendly graphical user interface (GUI) of remote state-of-the-art deep learning models, which allow users to conduct deep learning  brain tumor image segmentation without the cumbersome of both software and hardware requirements on users' local computers. 
 
 This repository is the client end executable version of DeepBTSeg. We also provide Matlab code of DeepBTSeg [here](https://github.com/IQMLatUAB/DeepBTSeg).
 DeepBTSeg is developed under Matlab 2020b and is executable under Matlab 2019b and Matlab 2020a.
@@ -56,4 +56,6 @@ Right click and choose "run as administrator" all the time(even you log in as ad
 
 5..Click “Submit job for selected model” to transmit this job to the server for processing or click “Submit jobs for all models” to apply all models on the current DICOM image series.
 
-6.Click "Export results" under the action menu to save processing results as DICOM RTSS file  when the job status is "Completed". Make sure you export results before you close DeepBTSeg because non-save results will be automatically eliminated.
+6.Click "Check job" under the "Action" menu or "Update status for all jobs" button to refresh the job status and messages from the remote server, which shown in matlab command window.
+
+7.Click "Export results" under the "Action" menu to save processing results as DICOM RTSS file  when the job status is "Completed". Make sure you export results before you close DeepBTSeg because non-save results will be automatically eliminated.
