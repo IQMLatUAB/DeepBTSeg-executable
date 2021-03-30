@@ -48,6 +48,7 @@ DeepBTSeg is **developed under Matlab 2020b** and is **executable under Matlab 2
 
 ## User_Instruction
 1. `ATTENTION！`Right click and choose `run as administrator` all the time (even you log in as administrator in your computer). Then, the `DeepBTSeg_GUI` will appear.
+
 ![](images/8.png)
 ![](images/DeepBTGUI_whole_window.PNG)
 
